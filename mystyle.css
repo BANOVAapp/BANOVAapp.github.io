@@ -35,7 +35,7 @@ html,body {
 }
 #loadImg div{
     display:table-cell; 
-    width:100%;
+    width:10000px;
     height:500px; 
     background:#fff;
     text-align:center;
