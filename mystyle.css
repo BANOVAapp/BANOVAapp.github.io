@@ -18,3 +18,16 @@ html,body {
     background:#FFFFFF;
 }
 
+#loadImg{
+    position:absolute; 
+    z-index: -1;
+}
+#loadImg div{
+    display:table-cell; 
+    width:10000px;
+    height:512px; 
+    background:#fff;
+    text-align:center;
+    vertical-align:middle;
+    
+}
